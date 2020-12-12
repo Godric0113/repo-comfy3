@@ -1,2 +1,3 @@
 # repo-comfy3
 Here is an attempt at making a repo with less directories than I have been to make it just a tad bit easier!! Here goes!! 
+On this repo i decided to create it, pull it to my pc, create an index.html home page with a little bit of html code and then put a little bit of a description in the README.md file and then push it all back over to git hub to see if it worked. Hopefully it goes really smoothly and i dont get any error messages. WOOT WOOT!! 
